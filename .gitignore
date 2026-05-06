@@ -1,0 +1,8 @@
+Thumbs.db
+.DS_Store
+
+# NetBeans private metadata
+**/nbproject/private/
+
+# Temporary local validation folder
+**/build-check/
