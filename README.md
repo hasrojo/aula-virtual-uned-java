@@ -133,9 +133,3 @@ La aplicacion guarda informacion en carpetas locales usando archivos de texto:
 - `asignaciones_estudiantes/`
 
 Eso significa que los datos visibles en la aplicacion dependen de la carpeta desde la cual se ejecute cada version del sistema.
-
-## Observaciones
-
-- Los datos de ejemplo incluidos en los archivos `.txt` fueron anonimizados para publicacion.
-- El proyecto conserva el codigo fuente, el `.jar`, el instalador, la guia y el informe.
-- El enunciado original del curso no se incluye en este repositorio.
